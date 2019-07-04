@@ -1,0 +1,34 @@
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.UI.WinForm.exe.config
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.UI.WinForm.exe
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.UI.WinForm.pdb
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.csprojAssemblyReference.cache
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.Properties.Resources.resources
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.csproj.GenerateResource.cache
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.csproj.CoreCompileInputs.cache
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.exe
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.pdb
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.Entity.dll
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.ORM.dll
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.Entity.pdb
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.ORM.pdb
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.Form1.resources
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.UrunlerForm.resources
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.csproj.CopyComplete
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.KategorilerForm.resources
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.UI.WinForm.exe.config
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.UI.WinForm.exe
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.UI.WinForm.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.Entity.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.ORM.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.Entity.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\bin\Debug\NTier.UstDuzey.ORM.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.Form1.resources
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.KategorilerForm.resources
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.Properties.Resources.resources
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.UrunlerForm.resources
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.csproj.CopyComplete
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.exe
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.UI.WinForm\obj\Debug\NTier.UstDuzey.UI.WinForm.pdb

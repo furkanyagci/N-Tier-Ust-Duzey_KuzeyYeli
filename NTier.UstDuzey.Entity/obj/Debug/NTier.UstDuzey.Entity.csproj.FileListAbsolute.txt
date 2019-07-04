@@ -1,0 +1,12 @@
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\bin\Debug\NTier.UstDuzey.Entity.dll
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\bin\Debug\NTier.UstDuzey.Entity.pdb
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\obj\Debug\NTier.UstDuzey.Entity.csprojAssemblyReference.cache
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\obj\Debug\NTier.UstDuzey.Entity.csproj.CoreCompileInputs.cache
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\obj\Debug\NTier.UstDuzey.Entity.dll
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\obj\Debug\NTier.UstDuzey.Entity.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\bin\Debug\NTier.UstDuzey.Entity.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\bin\Debug\NTier.UstDuzey.Entity.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\obj\Debug\NTier.UstDuzey.Entity.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\obj\Debug\NTier.UstDuzey.Entity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\obj\Debug\NTier.UstDuzey.Entity.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.Entity\obj\Debug\NTier.UstDuzey.Entity.pdb

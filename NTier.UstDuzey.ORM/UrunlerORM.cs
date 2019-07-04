@@ -1,0 +1,17 @@
+﻿using NTier.UstDuzey.Entity;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace NTier.UstDuzey.ORM
+{
+    public class UrunlerORM:ORMBase<Urunler>
+    {
+        public UrunlerORM()
+        {
+          
+        }
+    }
+}

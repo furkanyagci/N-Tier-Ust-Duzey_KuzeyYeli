@@ -1,0 +1,18 @@
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\obj\Debug\NTier.UstDuzey.ORM.csprojAssemblyReference.cache
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\obj\Debug\NTier.UstDuzey.ORM.csproj.CoreCompileInputs.cache
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\bin\Debug\NTier.UstDuzey.ORM.dll
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\bin\Debug\NTier.UstDuzey.ORM.pdb
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\bin\Debug\NTier.UstDuzey.Entity.dll
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\bin\Debug\NTier.UstDuzey.Entity.pdb
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\obj\Debug\NTier.UstDuzey.ORM.csproj.CopyComplete
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\obj\Debug\NTier.UstDuzey.ORM.dll
+D:\Dosya vs\Youtube Yazılım Dersleri\ibrahim Öz youtube kanalı dersleri\ADO.NET N-Tier\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\obj\Debug\NTier.UstDuzey.ORM.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\bin\Debug\NTier.UstDuzey.ORM.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\bin\Debug\NTier.UstDuzey.ORM.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\bin\Debug\NTier.UstDuzey.Entity.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\bin\Debug\NTier.UstDuzey.Entity.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\obj\Debug\NTier.UstDuzey.ORM.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\obj\Debug\NTier.UstDuzey.ORM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\obj\Debug\NTier.UstDuzey.ORM.csproj.CopyComplete
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\obj\Debug\NTier.UstDuzey.ORM.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\N-Tier-Ust-Duzey_KuzeyYeli\NTier.UstDuzey.ORM\obj\Debug\NTier.UstDuzey.ORM.pdb
